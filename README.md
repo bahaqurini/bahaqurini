@@ -31,7 +31,7 @@
 ---
 
 ## 📈 GitHub Stats  
-![Bahaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahaaqurini&show_icons=true&theme=radical)
+![Bahaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahaqurini&show_icons=true&theme=radical)
 
 ---
 
