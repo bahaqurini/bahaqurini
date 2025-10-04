@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bahaa%20Qurini-blue?style=flat&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bahaaqurini/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bahaa%20Qurini-blue?style=flat&logo=linkedin)]([[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/bahaaqurini/)](https://www.linkedin.com/in/bahaaqurini/))  
 📧 **Email:** bahaa.qurini@email.com
 
 ---
